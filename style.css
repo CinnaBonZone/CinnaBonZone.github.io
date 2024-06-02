@@ -1,5 +1,5 @@
 Body{
-  background-color:black;
+  background-color: rgb(61, 33, 57);
   text-align:center;
 }
 h1{
@@ -20,3 +20,4 @@ p{
   border-color:rgb(109, 109, 109);
   font-family:"Monaco";
   color: rgb(236, 235, 228);
+}
